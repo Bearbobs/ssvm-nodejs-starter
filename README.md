@@ -7,12 +7,12 @@ Main advantage here is that the actual logic is based on rust which is faster an
 `/GET http://127.0.0.1:3000/?phrase="I am happy"` //Score: 3, Comparative: 1
 
 ## TODO:
--[x]Senitiment Analyzer logic.
--[ ]File analysis:
-    -[x]API 
-    -[ ]Rust logic(Facing issues with Rexiv2 with SSVM)
--[ ]Make logic of Analyzer more refined.
--[ ]Frontend to wrap it.
+- [x] Senitiment Analyzer logic.
+- [ ] File analysis:
+    - [x] API 
+    - [ ] Rust logic(Facing issues with Rexiv2 with SSVM)
+- [ ] Make logic of Analyzer more refined.
+- [ ] Frontend to wrap it.
 
 ## Getting started with SSVM
 
