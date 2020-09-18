@@ -1,6 +1,6 @@
 # Sentiment Analyzer Backend using SSVM
 
-It is an implimentation of sentiment analyzer using ssvm. It is inspired from ![Sentimental](https://github.com/thinkroth/Sentimental) which is in javascript.
+It is an implimentation of sentiment analyzer using ssvm. It is inspired from [Sentimental] which is in javascript.
 Main advantage here is that the actual logic is based on rust which is faster and the api is exposed with express which makes it simple to impliment.
 
 ## Example Usage:
