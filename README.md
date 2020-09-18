@@ -1,4 +1,13 @@
-# Getting started
+# Sentiment Analyzer Backend using SSVM
+
+It is an implimentation of sentiment analyzer using ssvm. It is inspired from ![Sentimental](https://github.com/thinkroth/Sentimental) which is in javascript.
+Main advantage here is that the actual logic is based on rust which is faster and the api is exposed with express which makes it simple to impliment.
+
+## Example Usage:
+`/GET http://127.0.0.1:3000/?phrase="I am happy"` //Score: 3, Comparative: 1
+
+
+## Getting started with SSVM
 
 ![Build and test](https://github.com/second-state/ssvm-nodejs-starter/workflows/Build%20and%20test/badge.svg)
 
