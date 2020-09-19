@@ -10,7 +10,7 @@ Main advantage here is that the actual logic is based on rust which is faster an
 - [x] Senitiment Analyzer logic.
 - [ ] File analysis:
     - [x] API 
-    - [ ] Rust logic(Facing ![issue](https://github.com/second-state/ssvm-nodejs-starter/issues/13) with Rexiv2 with SSVM)
+    - [ ] Rust logic(Facing [issue](https://github.com/second-state/ssvm-nodejs-starter/issues/13) with Rexiv2 with SSVM)
 - [ ] Make logic of Analyzer more refined.
 - [ ] Frontend to wrap it.
 
